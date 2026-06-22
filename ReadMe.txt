@@ -59,7 +59,6 @@ IMPORTANT NOTES:
 
 ---
 
-AUTHOR:
-[Your Name]
+Kamela Hajiyeva
 
 ---
